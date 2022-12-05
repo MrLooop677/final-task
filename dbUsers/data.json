@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "email": "george.bluth@reqres.in",
+      "first_name": "George",
+      "last_name": "Bluth",
+      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "password": 167
+    },
+    {
+      "id": 2,
+      "email": "janet.weaver@reqres.in",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "password": 452
+    },
+    {
+      "id": 3,
+      "email": "emma.wong@reqres.in",
+      "first_name": "Emma",
+      "last_name": "Wong",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg",
+      "password": 842
+    },
+    {
+      "id": 4,
+      "email": "eve.holt@reqres.in",
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg",
+      "password": 128
+    },
+    {
+      "id": 5,
+      "email": "charles.morris@reqres.in",
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg",
+      "password": 257
+    },
+    {
+      "id": 6,
+      "email": "tracey.ramos@reqres.in",
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "https://reqres.in/img/faces/6-image.jpg",
+      "password": 246
+    },
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "password": 234
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "password": 852
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "password": 951
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
+      "password": 678
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg",
+      "password": 456
+    },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
+      "password": 123
+    },
+    {
+      "first_name": "Eslam",
+      "last_name": "Mahmoud",
+      "password": "123",
+      "email": "eslammahmoud.div@gmail.com",
+      "loggedIn": true,
+      "id": 13
+    },
+    {
+      "first_name": "Ali",
+      "last_name": "Ali",
+      "password": "556677",
+      "email": "em1320745@gmail.com",
+      "loggedIn": true,
+      "id": 14
+    },
+    {
+      "first_name": "Joun",
+      "last_name": "Smith",
+      "password": "2233",
+      "email": "jouhn@gmail.com",
+      "loggedIn": true,
+      "id": 15
+    },
+    {
+      "first_name": "Jak",
+      "last_name": "Mond",
+      "password": "978",
+      "email": "es@h.com",
+      "loggedIn": true,
+      "id": 16
+    },
+    {
+      "first_name": "Saif",
+      "last_name": "Eslam",
+      "password": "123",
+      "email": "saif@fg.com",
+      "loggedIn": true,
+      "id": 17
+    },
+    {
+      "first_name": "Saif",
+      "last_name": "Eslam",
+      "password": "678",
+      "email": "saif@fg.com",
+      "loggedIn": true,
+      "id": 19
+    }
+  ]
+}
