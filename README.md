@@ -3,10 +3,14 @@ Eslam Mahmoud Ali
 Todos App
 
 =>prerequisite
+
 1-install npm 
+
 2-runs the dbjson(json server) in the development mode.\
+
 on port [http://localhost:3009]and dbUsers[http://localhost:3007] to view it in your browser.
 by comand npm start in integrated terminal
+
 
 
 =>tech stack
