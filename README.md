@@ -14,14 +14,21 @@ by comand npm start in integrated terminal
 
 
 =>directory structure:
+
 -MY-App:folder containig on all file project include(data base and node module)
+
 -dbjson:its a json server contain data of todos
+
 -dbUsers:its a json server contain data of users
 
 -src:folder containig on 3 folders 
+
 1-Componnent:its folder contain on a component in web app (NavBar Component)
+
 2-pages:its folder contain on all  pages in web app (logIn,Register,Create,Delete,Edit and View)
+
 3-Redux:its folder Responsible for state management contain on slices and store
+
 
         
  
