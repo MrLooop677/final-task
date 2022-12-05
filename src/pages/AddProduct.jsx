@@ -66,4 +66,4 @@ const addNewItem=()=>{
   );
 };
 
-export default AddProduct;
+export default AddProduct; 
