@@ -10,18 +10,20 @@ by comand npm start in integrated terminal
 
 
 =>tech stack
--HTML , CSS, Bootstrap , React.js , Redux Toolkit management
+-HTML , CSS, Bootstrap , React.js and Redux Toolkit management
 
 
-=>directory structure
--MY-App
-    src
-        components
-            Nav Component
-        pages
-            all Pages in site
-        Redux
-            contains on slices , store data and  api logics for user and data
+=>directory structure:
+-MY-App:folder containig on all file project include(data base and node module)
+-dbjson:its a json server contain data of todos
+-dbUsers:its a json server contain data of users
+
+-src:folder containig on 3 folders 
+1-Componnent:its folder contain on a component in web app (NavBar Component)
+2-pages:its folder contain on all  pages in web app (logIn,Register,Create,Delete,Edit and View)
+3-Redux:its folder Responsible for state management contain on slices and store
+
+        
  
 
 =>getting started ### `npm start`
